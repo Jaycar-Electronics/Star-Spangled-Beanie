@@ -26,4 +26,4 @@ We use bluetooth in this ESP32 program that can be controlled with any `SerialBl
 ![appstore](docs/images/app-store.png)
 
 <div id='instructions'>
-For instructions on how to build this, check out https://jaycar.com.au/star-spangled-beanie/</div>
+For instructions on how to build this, check out https://jaycar.com.au/star-spangled-beanie</div>
